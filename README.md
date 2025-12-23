@@ -10,3 +10,8 @@ Short explanation of the project.
 
 ## Setup
 pip install -r requirements.txt
+
+## Project Goals
+- Practice GitHub collaboration
+- Learn pull requests
+
