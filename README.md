@@ -15,3 +15,4 @@ pip install -r requirements.txt
 - Practice GitHub collaboration
 - Learn pull requests
 
+# Exploratory Data Analysis improvements
